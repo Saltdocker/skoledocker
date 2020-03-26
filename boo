@@ -1,1 +1,1 @@
-sudo docker whalesay/cowsay boo
+sudo docker whalesay/cowsay hello
